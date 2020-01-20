@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Ольга Пензина](https://up.htmlacademy.ru/htmlcss/27/user/1103425).
-* Наставник: [Кирилл Генералов] (https://up.htmlacademy.ru/htmlcss/27/user/623069).
+* Наставник: [Кирилл Генералов](https://up.htmlacademy.ru/htmlcss/27/user/623069).
 
 ---
 
